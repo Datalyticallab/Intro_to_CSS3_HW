@@ -11,6 +11,12 @@ h1{
   margin: 20px;
 }
 
+
+h3{
+  text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
 nav {
     display: inline-block;    
     width: 80%;              
