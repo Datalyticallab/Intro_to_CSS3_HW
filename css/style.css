@@ -91,7 +91,8 @@ footer{
 }
 
 footer p a {
-    color: #71f3fa;     
+    color: #f8f7f9; 
+       
 }
 footer p a:hover {
     color: #6409b4;
